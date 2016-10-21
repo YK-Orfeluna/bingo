@@ -10,7 +10,7 @@ Python2.7.12.
 Numpy 1.1.0
 OpenCV2.4.14
 
-Use
+Run
 $python bingo.py
 
 log
